@@ -23,5 +23,5 @@
 ![typescript](https://img.shields.io/badge/-typescript-05122A?style=flat&logo=typescript)&nbsp;
 ![springboot](https://img.shields.io/badge/-springboot-05122A?style=flat&logo=springboot)&nbsp;
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=m4a1z89&show_icons=true&locale=en&layout=compact" alt="xeken" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=m4a1z&show_icons=true&locale=en&layout=compact" alt="xeken" /></p>
 
