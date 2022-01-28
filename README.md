@@ -15,4 +15,10 @@
 ![javascript](https://img.shields.io/badge/-javascript-05122A?style=flat&logo=javascript)&nbsp;
 ![mobx](https://img.shields.io/badge/-mobx-05122A?style=flat&logo=mobx)&nbsp;
 ![next.js](https://img.shields.io/badge/-next.js-05122A?style=flat&logo=next.js)&nbsp;
-
+![java](https://img.shields.io/badge/-java-05122A?style=flat&logo=java)&nbsp;
+![html5](https://img.shields.io/badge/-html5-05122A?style=flat&logo=html5)&nbsp;
+![oracle](https://img.shields.io/badge/-oracle-05122A?style=flat&logo=oracle)&nbsp;
+![mssql](https://img.shields.io/badge/-mssql-05122A?style=flat&logo=mssql)&nbsp;
+![mysql](https://img.shields.io/badge/-mysql-05122A?style=flat&logo=mysql)&nbsp;
+![Springboot](https://img.shields.io/badge/-Springboot-05122A?style=flat&logo=Springboot)&nbsp;
+![MSA](https://img.shields.io/badge/-MSA-05122A?style=flat&logo=MSA)&nbsp;
