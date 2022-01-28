@@ -14,5 +14,5 @@
 ![node.js](https://img.shields.io/badge/-node-05122A?style=flat&logo=node.js)&nbsp;
 ![javascript](https://img.shields.io/badge/-javascript-05122A?style=flat&logo=javascript)&nbsp;
 ![mobx](https://img.shields.io/badge/-mobx-05122A?style=flat&logo=mobx)&nbsp;
-
+![next.js](https://img.shields.io/badge/-next.js-05122A?style=flat&logo=next.js)&nbsp;
 
