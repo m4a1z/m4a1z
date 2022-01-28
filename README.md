@@ -10,7 +10,7 @@
 
 
 ![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring)&nbsp;
-![React](https://img.shields.io/badge/-react-05122A?style=flat&logo=react)&nbsp;
+![React](https://img.shields.io/badge/-react-05122A?style=flat&logo=React)&nbsp;
 ![node.js](https://img.shields.io/badge/-node-05122A?style=flat&logo=node.js)&nbsp;
 
 
