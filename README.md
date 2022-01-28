@@ -20,5 +20,5 @@
 ![oracle](https://img.shields.io/badge/-oracle-05122A?style=flat&logo=oracle)&nbsp;
 ![Mssql](https://img.shields.io/badge/-Mssql-05122A?style=flat&logo=Mssql)&nbsp;
 ![mysql](https://img.shields.io/badge/-mysql-05122A?style=flat&logo=mysql)&nbsp;
-![Springboot](https://img.shields.io/badge/-Springboot-05122A?style=flat&logo=Springboot)&nbsp;
+![typescript](https://img.shields.io/badge/-typescript-05122A?style=flat&logo=typescript)&nbsp;
 
