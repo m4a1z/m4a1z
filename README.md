@@ -18,7 +18,7 @@
 ![java](https://img.shields.io/badge/-java-05122A?style=flat&logo=java)&nbsp;
 ![html5](https://img.shields.io/badge/-html5-05122A?style=flat&logo=html5)&nbsp;
 ![oracle](https://img.shields.io/badge/-oracle-05122A?style=flat&logo=oracle)&nbsp;
-![mssql](https://img.shields.io/badge/-mssql-05122A?style=flat&logo=mssql)&nbsp;
+![Mssql](https://img.shields.io/badge/-Mssql-05122A?style=flat&logo=Mssql)&nbsp;
 ![mysql](https://img.shields.io/badge/-mysql-05122A?style=flat&logo=mysql)&nbsp;
 ![Springboot](https://img.shields.io/badge/-Springboot-05122A?style=flat&logo=Springboot)&nbsp;
 
